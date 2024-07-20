@@ -1,0 +1,17 @@
+langchain
+langchain_openai 
+langchain_core
+python-dotenv
+langchain_community
+networkx
+faiss-cpu
+groq
+langchainhub
+PyPDF2
+langchain-objectbox
+google-generativeai
+langchain_google_genai
+bs4
+flask
+langchain_groq
+sentence-transformers
